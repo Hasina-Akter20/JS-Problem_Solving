@@ -41,4 +41,4 @@ function recu(number){
     return number*recu(number-1);
 }
 
-console.log(recu(5));
+console.log(recu(4));
